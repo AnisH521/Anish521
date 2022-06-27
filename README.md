@@ -8,5 +8,3 @@
 <h3 align="left">Connect with me: https://www.linkedin.com/in/anish-naskar-74517622a/</h3>
 <p align="left">
 </p>
-
-https://img.shields.io/pypi/pyversions/pandas?style=flat-square
