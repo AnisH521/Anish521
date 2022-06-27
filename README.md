@@ -5,6 +5,6 @@
 
 - 📫 How to reach me **anishnaskar99@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/anish-naskar-74517622a/</h3>
 <p align="left">
 </p>
