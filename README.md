@@ -16,9 +16,10 @@
     
     **AI/ML**
     
-    ![image](https://user-images.githubusercontent.com/97351302/176002177-8d48acd4-b50b-43bc-8c27-bbd6b253e2a4.png)
-     ![image](https://user-images.githubusercontent.com/97351302/176002235-2057019f-e1f8-4131-9381-144801079e30.png)
-      ![image](https://user-images.githubusercontent.com/97351302/176002315-8a231c68-8416-4f4f-ab70-22cc5da17d6f.png)
+    ![image](https://user-images.githubusercontent.com/97351302/181787867-30d5c67c-0cfc-4863-a1b9-c3b11aa2c58a.png)
+     ![image](https://user-images.githubusercontent.com/97351302/176002177-8d48acd4-b50b-43bc-8c27-bbd6b253e2a4.png)
+      ![image](https://user-images.githubusercontent.com/97351302/176002235-2057019f-e1f8-4131-9381-144801079e30.png)
+       ![image](https://user-images.githubusercontent.com/97351302/176002315-8a231c68-8416-4f4f-ab70-22cc5da17d6f.png)
     
     **Database**
     
