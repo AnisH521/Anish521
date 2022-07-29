@@ -24,7 +24,7 @@
     **Database**
     
     ![image](https://user-images.githubusercontent.com/97351302/176002557-6fc89048-6306-49cf-b6e5-3d21ef170b0a.png)
-     ![image](https://user-images.githubusercontent.com/97351302/176002610-ee09b1d7-6f27-469d-aa98-d77e5c3a45dc.png)
+      ![image](https://user-images.githubusercontent.com/97351302/176002610-ee09b1d7-6f27-469d-aa98-d77e5c3a45dc.png)
     
     **Framework**
     
