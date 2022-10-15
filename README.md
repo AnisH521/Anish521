@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Anish</h1>
-<h3 align="left">A Data Enthusiast and a learner</h3>
+<h3 align="left">A learner</h3>
 
 - 🌱 I’m currently studying **M.Sc. in Data Science**
 
