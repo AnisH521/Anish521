@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Anish</h1>
 <h3 align="left">A learner</h3>
 
-- 🌱 I’m currently studying **M.Sc. in Data Science**
+- 🌱 Currently studying **M.Sc. in Data Science**
 
 - 👾 Interested in Machine Learning Algorithms, A.I. etc
 
