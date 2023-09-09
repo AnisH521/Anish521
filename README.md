@@ -1,15 +1,10 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://your-image-url.com/your-image.png" alt="Banner Image">
-</p>
-
 <!-- Introduction -->
 <h1 align="center">Hi, I'm Anish! 👋</h1>
 <h3 align="center">A passionate learner exploring the world of data science and software development.</h3>
 
 <!-- About Me -->
-- 🌱 I'm currently pursuing **M.Sc. in Data Science**.
-- 👾 My interests include Machine Learning, Artificial Intelligence, and more.
+- 🌱 I'm a **Data Scientist**.
+- 👾 My interests include Artificial Intelligence, Software Engineering and more.
 - 📚 I have knowledge in:
 
     ###### Programming Languages
