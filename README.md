@@ -1,26 +1,45 @@
-<h1 align="left">Hi 👋, I'm Anish</h1>
-<h3 align="left">A learner</h3>
+<!-- Banner -->
+<p align="center">
+  <img src="https://your-image-url.com/your-image.png" alt="Banner Image">
+</p>
 
-- 🌱 Currently studying **M.Sc. in Data Science**
+<!-- Introduction -->
+<h1 align="center">Hi, I'm Anish! 👋</h1>
+<h3 align="center">A passionate learner exploring the world of data science and software development.</h3>
 
-- 👾 Interested in Machine Learning Algorithms, A.I. etc
-
-- 📚 Have some knowledge in : 
+<!-- About Me -->
+- 🌱 I'm currently pursuing **M.Sc. in Data Science**.
+- 👾 My interests include Machine Learning, Artificial Intelligence, and more.
+- 📚 I have knowledge in:
 
     ###### Programming Languages
 
-    ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+    ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
 
     ###### ML/DL
 
-    ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+    ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+    ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+    ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23FF5722.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+    ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+    ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+    ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 
-    ###### Framework
+    ###### Frameworks
 
-    ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+    ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+    ![Selenium](https://img.shields.io/badge/Selenium-%2348C774.svg?style=for-the-badge&logo=selenium&logoColor=white)
 
-- 📫 Reach me at : **anishnaskar99@gmail.com**
+- 📫 You can reach me at: **anishnaskar99@gmail.com**
 
-<h3 align="left">Connect with me: https://www.linkedin.com/in/anish-naskar-74517622a/</h3>
-<p align="left">
+<!-- Social Media -->
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/anish-naskar-74517622a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <!-- Add more social media icons and links if desired -->
 </p>
